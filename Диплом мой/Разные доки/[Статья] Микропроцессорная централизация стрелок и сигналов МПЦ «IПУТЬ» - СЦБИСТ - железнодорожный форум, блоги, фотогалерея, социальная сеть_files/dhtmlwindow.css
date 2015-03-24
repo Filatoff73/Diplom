@@ -1,0 +1,42 @@
+.dhtmlwindow{
+position: absolute;
+border: 0px;
+visibility: hidden;
+}
+
+.drag-handle{ 
+padding: 1px;
+text-indent: 3px;
+cursor: move;
+overflow: auto;
+width: 100%;
+}
+
+.drag-handle .drag-controls{ 
+position: absolute;
+right: 0px;
+top: 10px;
+cursor: hand;
+cursor: pointer;
+}
+
+.drag-contentarea{ 
+height: 20px;
+padding: 2px;
+overflow: auto;
+}
+
+.drag-statusarea{ 
+border-top: 1px solid gray;
+background-color: #F8F8F8;
+height: 13px; 
+}
+
+
+.drag-resizearea{ 
+float: right;
+width: 13px; 
+height: 13px; 
+cursor: nw-resize;
+font-size: 0;
+} 
